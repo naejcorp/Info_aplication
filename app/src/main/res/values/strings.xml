@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">La Colmena</string>
+
+
+    <!-- login -->
+    <string name="btn_iniciar_pantalla">Iniciar Sesión</string>
+    <string name="btn_registrar_pantalla">Registrarse</string>
+
+    <string name="btn_iniciar_sesion">Iniciar Sesion</string>
+    <string name="btn_registrarse_sesion">Registrarse</string>
+    <string name="btn_cerrar_sesion">Cerrar Sesión</string>
+
+    <string name="txt_contrasena">Escribe aqui una Contraseña</string>
+    <string name="txt_contrasena_repy">Confirmacion Contraseña</string>
+    <string name="txt_correo">Escribe aqui un correo electrónico</string>
+
+
+    <!-- botones Menu -->
+
+    <string name="noticias_btn">Noticias</string>
+    <string name="tipos_btn">Tipos</string>
+    <string name="razas_btn">Razas</string>
+    <string name="consejos_btn">Consejos</string>
+    <string name="libros_btn">Libros</string>
+    <string name="registro_leche_btn">Registrar produccion de leche</string>
+
+    <!-- boton Activity Registro Leche -->
+
+    <string name="btn_agregar_registro_leche">Agregar listros</string>
+    <string name="txt_registro_leche">Produccion de leche(Litros)</string>
+    <string name="txt_registro_leche_fecha">dd/mm/aaaa</string>
+
+    <!-- descripcion tarjetas -->
+
+    <string name="descripcion_noticias">Noticias sobre ganaderia</string>
+    <string name="descripcion_consejos">Descripcion sobre ganaderia</string>
+    <string name="descripcion_libros_gratis">Libros sobre ganaderia</string>
+    <string name="descripcion_razas">Razas ganado</string>
+    <string name="descripcion_tipos_ganado">Tipos sobre ganaderia</string>
+    <string name="descripcion_registro_leche">Registra los litros de leche producidos en tu finca</string>
+
+    <string name="text_correo_iniciar_sesion_Activity"></string>
+    <string name="text_contraseña_iniciar_sesion_Activity"></string>
+    <string name="btn_iniciar_sesion_Activity">Iniciar Sesion</string>
+
+    <string name="text_correo_Registrarse_Activity"></string>
+    <string name="text_contraseña_Registrarse_Activity"></string>
+    <string name="text_contraseñaConfirmacion_Registrarse_Activity"></string>
+    <string name="btn_Registrarse_Activity">Registrarse</string>
+
+
+</resources>
